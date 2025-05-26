@@ -1,0 +1,42 @@
+# Tor state file last generated on 2025-05-14 02:41:49 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 485 1
+CircuitBuildTimeBin 555 1
+CircuitBuildTimeBin 675 1
+CircuitBuildTimeBin 1105 1
+CircuitBuildTimeBin 16665 1
+CircuitBuildTimeBin 16785 1
+CircuitBuildTimeBin 23375 1
+CircuitBuildTimeBin 26835 1
+CircuitBuildTimeBin 27965 1
+CircuitBuildTimeBin 30365 1
+CircuitBuildTimeBin 41085 1
+CircuitBuildTimeBin 53325 1
+CircuitBuildTimeBin 53615 1
+Dormant 0
+Guard in=default rsa_id=E88F8E72100709E226F22DF6A50365480054ECD2 nickname=Planetclaire60 sampled_on=2025-04-30T14:05:27 sampled_idx=0 sampled_by=0.4.8.16 listed=1 confirmed_on=2025-05-07T11:45:08 confirmed_idx=0 pb_use_attempts=8.000000 pb_use_successes=8.000000 pb_circ_attempts=60.000000 pb_circ_successes=52.000000 pb_successful_circuits_closed=52.000000 pb_timeouts=8.000000
+Guard in=default rsa_id=69B632F8B2BD3B59B3849C8072DB097A53A2D71A nickname=RelayUli sampled_on=2025-05-03T18:32:45 sampled_idx=1 sampled_by=0.4.8.16 listed=1 confirmed_on=2025-04-27T05:20:52 confirmed_idx=1 pb_use_attempts=6.000000 pb_use_successes=6.000000 pb_circ_attempts=62.000000 pb_circ_successes=53.000000 pb_successful_circuits_closed=53.000000 pb_timeouts=8.000000
+Guard in=default rsa_id=6CB2C00C8374D6968698A57940245249FC5B1769 nickname=code sampled_on=2025-04-26T14:00:48 sampled_idx=2 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=E4A848533B72BCE2004CF4D32A217F109A3EF796 nickname=1blu3DEicebeer04 sampled_on=2025-05-06T16:20:55 sampled_idx=3 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=31D270A38505D4BFBBCABF717E9FB4BCA6DDF2FF nickname=Belgium sampled_on=2025-04-30T23:37:29 sampled_idx=4 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=9837112DA1503CCAA3980CF49D9FAD6F4DEA4096 nickname=OrangeNode sampled_on=2025-04-26T08:13:08 sampled_idx=5 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=494E5000BA79F0078DFA05E610911C2AC525572F nickname=StuRav sampled_on=2025-05-05T14:53:49 sampled_idx=6 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=D855DE28F6524DD0D326027D35531F922E315B0F nickname=relayon1170 sampled_on=2025-04-26T21:46:48 sampled_idx=7 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=85C29D07636BEBACFCA0DF5AB31B333882745065 nickname=Digitalcourage4ipcb sampled_on=2025-05-06T08:49:45 sampled_idx=8 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=91394645FB067A5008F5129305DE243903A6A7BF nickname=waterloosundae sampled_on=2025-04-28T04:07:16 sampled_idx=9 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=74AC200A4A4FD2A4A77DCBA05AB60DAC4F161355 nickname=hotboyz sampled_on=2025-05-07T16:35:57 sampled_idx=10 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=5C8CC5659757F690C9B5B9BB4A4302E8397818BF nickname=LostSahara sampled_on=2025-05-01T15:30:11 sampled_idx=11 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=2BBE11EC7CE623B4D76C9762D2BE28DF569B3E26 nickname=TORtaruga sampled_on=2025-04-29T19:06:53 sampled_idx=12 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=F7190F7D0E1ECF287060AC1DDD345B5954FC6171 nickname=mikrogravitation8 sampled_on=2025-05-02T10:02:34 sampled_idx=13 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=258E8CD06EB152E6123C6458F5D752B22A4CE8C0 nickname=NotNotUnnamed69 sampled_on=2025-05-04T20:10:14 sampled_idx=14 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=A9D620A341A7AE2F6118D1C711AC2518C2CA8A99 nickname=relayon1150 sampled_on=2025-04-30T05:33:57 sampled_idx=15 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=3B1A05FFA64E53FE031D098DAD0C527563945741 nickname=Linstal1 sampled_on=2025-05-02T03:49:35 sampled_idx=16 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=FD449127D30D8F5D124653D9EF736EDF4A12B4DC nickname=lw sampled_on=2025-04-26T17:20:32 sampled_idx=17 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=FE1AB3C4F9F90E13F85D9E4C7F915DD7DBC28CDE nickname=lunoxia sampled_on=2025-04-28T13:25:23 sampled_idx=18 sampled_by=0.4.8.16 listed=1
+Guard in=default rsa_id=B03D9DA59686ED8195E25C4CC98E8765F445F142 nickname=Unnamed sampled_on=2025-04-28T21:09:06 sampled_idx=19 sampled_by=0.4.8.16 listed=1
+LastWritten 2025-05-14 00:41:49
+MinutesSinceUserActivity 9
+TorVersion Tor 0.4.8.16 (git-64ccafd8115ecdec)
+TotalBuildTimes 13

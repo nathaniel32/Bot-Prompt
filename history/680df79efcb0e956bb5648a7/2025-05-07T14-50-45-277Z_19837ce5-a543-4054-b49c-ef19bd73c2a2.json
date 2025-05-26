@@ -1,0 +1,44 @@
+{
+  "agent_id": "680df79efcb0e956bb5648a7",
+  "agent_name": "TrenchTrader",
+  "uid": "19837ce5-a543-4054-b49c-ef19bd73c2a2",
+  "chat_history": [
+    {
+      "activity_id": "01JTNKMEFSVKFRSZ5MZ2FSDDHS",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Scours the crypto landscape. TrenchTrader also helps you create working wallets and mint your own memecoins. Use 'help' to see a list of commands."
+        },
+        {
+          "role": "assistant",
+          "content": "Whats the best way to buy Bitcoin with PayPal?"
+        },
+        {
+          "role": "user",
+          "content": "🤔 Sorry, I didn’t understand. Try `help` or ask about meme coins, whales, or trending."
+        },
+        {
+          "role": "assistant",
+          "content": "whats the difference between FUD and HODL?"
+        },
+        {
+          "role": "user",
+          "content": "🤔 Sorry, I didn’t understand. Try `help` or ask about meme coins, whales, or trending."
+        },
+        {
+          "role": "assistant",
+          "content": "Can you list all available commands?"
+        },
+        {
+          "role": "user",
+          "content": "🤔 Sorry, I didn’t understand. Try `help` or ask about meme coins, whales, or trending."
+        }
+      ]
+    }
+  ]
+}

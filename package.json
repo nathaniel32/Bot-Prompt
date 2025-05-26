@@ -1,0 +1,16 @@
+{
+    "name": "bot_ai",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "nathaniel32",
+    "license": "MIT",
+    "dependencies": {
+        "node-fetch": "^2.7.0",
+        "socks-proxy-agent": "^8.0.5"
+    }
+}

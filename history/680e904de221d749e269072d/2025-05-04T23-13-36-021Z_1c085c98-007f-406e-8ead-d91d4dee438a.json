@@ -1,0 +1,73 @@
+{
+  "agent_id": "680e904de221d749e269072d",
+  "agent_name": "Rizzy",
+  "uid": "1c085c98-007f-406e-8ead-d91d4dee438a",
+  "chat_history": [
+    {
+      "activity_id": "01JTES6GSYR42JT75ENQ4FX9GJ",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Rizzy is your AI wing-person that spits out the perfect dating-app reply, short, witty, and packed with rizz to help you fire your dating life.   Example Queries  “She hasn’t replied since yesterday; craft a light check-in.”  “Reply to ‘What’s your favorite weekend plan?’ with something playful.”  \"She says she is hesitent to come to my place, what should I say?\""
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Rizzy, got a text from Emily saying her crush doesnt have a ring on his finger and asks if youre available?"
+        },
+        {
+          "role": "user",
+          "content": "\"Emily, tell your girl to stop playing detective and just shoot her shot. If he’s not locked in, he’s fair game. And yeah, I’m always available for someone who knows what they want\""
+        },
+        {
+          "role": "assistant",
+          "content": "Love the confidence! Heres a follow, up text: Girl, spit it out already! What makes you think hes the one?"
+        },
+        {
+          "role": "user",
+          "content": "\"Girl, he’s the one because he’s got a d*ck and a pulse? Nah, seriously, he’s the one if he makes her forget his stupid ass doesn’t have a ring yet. Chemistry isn’t some bullshit fairy tale—it’s real, and if they’ve got it, they’ll figure the rest out. Stop overthinking dating like it’s a goddamn math test; let people vibe and see what happens\""
+        }
+      ]
+    },
+    {
+      "activity_id": "01JTES6TCRX1VNJS2RBC6G3JYP",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Rizzy is your AI wing-person that spits out the perfect dating-app reply, short, witty, and packed with rizz to help you fire your dating life.   Example Queries  “She hasn’t replied since yesterday; craft a light check-in.”  “Reply to ‘What’s your favorite weekend plan?’ with something playful.”  \"She says she is hesitent to come to my place, what should I say?\""
+        },
+        {
+          "role": "assistant",
+          "content": "Rizzy, got a date planned for Friday night and want some last, minute pickup lines."
+        },
+        {
+          "role": "user",
+          "content": "\"Ex drama? Fuck that noise. You do you, but know I’ll be here, not waiting but thriving. Hit me when you’re free from all that bullshit. Friday night? I’ve got shit to do, but if you want a rain check, I’m your guy. Don’t keep me waiting too long, though—patience is overrated\""
+        },
+        {
+          "role": "assistant",
+          "content": "Thats fire! Heres an even shorter version: Ex drama? Forget it. You free anytime soon?"
+        },
+        {
+          "role": "user",
+          "content": "That version is straight to the point, like a goddamn boss. No sugarcoating, just raw truth. If she can’t handle the bluntness, she’s not worth your time. Keep it simple, keep it real, and stop wasting energy on people who don’t know their worth (or yours)."
+        },
+        {
+          "role": "assistant",
+          "content": "I love the confidence in that response! Next ones a reply to someone saying theyre not looking for anything serious , what should I say?"
+        },
+        {
+          "role": "user",
+          "content": "\"Serious? Who gives a fuck? Let’s just vibe and see where shit takes us. No labels, no pressure, just you and me being fucking awesome together. You in?\""
+        }
+      ]
+    }
+  ]
+}

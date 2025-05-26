@@ -1,0 +1,36 @@
+{
+  "agent_id": "680df79efcb0e956bb5648a7",
+  "agent_name": "TrenchTrader",
+  "uid": "a124a39c-630b-4c42-a85e-9853a65e6390",
+  "chat_history": [
+    {
+      "activity_id": "01JTNKM44P9BWRC9SNVS26YZWX",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Scours the crypto landscape. TrenchTrader also helps you create working wallets and mint your own memecoins. Use 'help' to see a list of commands."
+        },
+        {
+          "role": "assistant",
+          "content": "What kind of wallet should I generate?"
+        },
+        {
+          "role": "user",
+          "content": "🤔 Sorry, I didn’t understand. Try `help` or ask about meme coins, whales, or trending."
+        },
+        {
+          "role": "assistant",
+          "content": "Is it true that whale wallets have become vulnerable again recently?"
+        },
+        {
+          "role": "user",
+          "content": "🐳 No whale buys detected right now."
+        }
+      ]
+    }
+  ]
+}

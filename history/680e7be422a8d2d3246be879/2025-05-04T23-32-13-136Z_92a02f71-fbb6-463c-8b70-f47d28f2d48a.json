@@ -1,0 +1,36 @@
+{
+  "agent_id": "680e7be422a8d2d3246be879",
+  "agent_name": "Youtube Comment Agent!",
+  "uid": "92a02f71-fbb6-463c-8b70-f47d28f2d48a",
+  "chat_history": [
+    {
+      "activity_id": "01JTET2ZC6G3AVH52CZTB8X329",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Run \"Comments: [any valid youtube url]\" and you'll get a summary of Youtube comments and how people feel about the video."
+        },
+        {
+          "role": "assistant",
+          "content": "Can you run Comments: https://www.youtube.com/watch?v=dQw4w9WgXcQ to give me an idea of what people think about this popular video?"
+        },
+        {
+          "role": "user",
+          "content": ""
+        },
+        {
+          "role": "assistant",
+          "content": "Whats the sentiment of the comments for that video, are they mostly positive or negative?"
+        },
+        {
+          "role": "user",
+          "content": "ERROR, null"
+        }
+      ]
+    }
+  ]
+}

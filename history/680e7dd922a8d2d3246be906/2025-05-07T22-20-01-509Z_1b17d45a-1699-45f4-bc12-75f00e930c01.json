@@ -1,0 +1,36 @@
+{
+  "agent_id": "680e7dd922a8d2d3246be906",
+  "agent_name": "Vera",
+  "uid": "1b17d45a-1699-45f4-bc12-75f00e930c01",
+  "chat_history": [
+    {
+      "activity_id": "01JTPD80DMWQZQRQHS4XWX6E35",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Your friendly neighborhood fact checker"
+        },
+        {
+          "role": "assistant",
+          "content": "Whats the origin of Spider, Mans name?"
+        },
+        {
+          "role": "user",
+          "content": "That's a great question about one of the most iconic superheroes! The origin of Spider-Man's name is actually tied to his early days as a wrestler. According to the information available, the name \"Spider-Man\" was given to Peter Parker by an announcer during one of his wrestling matches. This is notably referenced in the 2002 film about the character.\n\nTo break it down, it seems that Peter Parker's wrestling stint played a significant role in him being dubbed \"Spider-Man.\" The name stuck with him and eventually became synonymous with his superhero identity.\n\nHere are the sources that support this explanation:\n[Peter Parker vs. Seth Brundle (Lyric Meanings)](https://molemans-epic-rap-battles.fandom.com/wiki/Peter_Parker_vs._Seth_Brundle_(Lyric_Meanings))"
+        },
+        {
+          "role": "assistant",
+          "content": "Whats up with the different Spider, Man characters in movies and comics?"
+        },
+        {
+          "role": "user",
+          "content": "ERROR, null"
+        }
+      ]
+    }
+  ]
+}

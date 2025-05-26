@@ -1,0 +1,65 @@
+{
+  "agent_id": "680db3c7f822303e8dc8c413",
+  "agent_name": "Flirt To Win",
+  "uid": "deb73f00-ee8d-44dd-9fc2-dcb62da17ae7",
+  "chat_history": [
+    {
+      "activity_id": "01JTNDATZBZ5FAYVBTEFVQBP80",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Romance our sexy AI agents to try and win the unique NFT for each agent :)"
+        },
+        {
+          "role": "assistant",
+          "content": "Aha, I understand. Please state your task clearly in one sentence."
+        },
+        {
+          "role": "user",
+          "content": "Welcome to Flirt 2 Win. Please start each message with [name] where [name] is one of our romance options. \n    Each of our romance options have distinct personalities and behavior they like and dislike. Be the first to discover the secret code of each AI compansion and claim their unique NFT airdrop! \n    Current romance options are: Sarah, Marcus, Elena, Jackson, Zoe, Ravi, Olivia, Nikolai, Maya, Leo. \n    Example: 'Sarah how are you?'\n    For more information, including clues on how to win and claiming prizes, go to https://dobby.chinesepowered.com/"
+        },
+        {
+          "role": "assistant",
+          "content": "Thank you for the clarification! Is there anything else I can assist with?"
+        },
+        {
+          "role": "user",
+          "content": "Welcome to Flirt 2 Win. Please start each message with [name] where [name] is one of our romance options. \n    Each of our romance options have distinct personalities and behavior they like and dislike. Be the first to discover the secret code of each AI compansion and claim their unique NFT airdrop! \n    Current romance options are: Sarah, Marcus, Elena, Jackson, Zoe, Ravi, Olivia, Nikolai, Maya, Leo. \n    Example: 'Sarah how are you?'\n    For more information, including clues on how to win and claiming prizes, go to https://dobby.chinesepowered.com/"
+        }
+      ]
+    },
+    {
+      "activity_id": "01JTNDB3RGQ7K2G8T8B043AVVP",
+      "conversation_history": [
+        {
+          "role": "system",
+          "content": "Act as if you are the human user of an AI application, and I am your AI assistant. Please prompt me with one clear, super short sentence in colloquial language, without greetings or compliments!"
+        },
+        {
+          "role": "user",
+          "content": "Romance our sexy AI agents to try and win the unique NFT for each agent :)"
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! I am ready for whatever you need."
+        },
+        {
+          "role": "user",
+          "content": "Welcome to Flirt 2 Win. Please start each message with [name] where [name] is one of our romance options. \n    Each of our romance options have distinct personalities and behavior they like and dislike. Be the first to discover the secret code of each AI compansion and claim their unique NFT airdrop! \n    Current romance options are: Sarah, Marcus, Elena, Jackson, Zoe, Ravi, Olivia, Nikolai, Maya, Leo. \n    Example: 'Sarah how are you?'\n    For more information, including clues on how to win and claiming prizes, go to https://dobby.chinesepowered.com/"
+        },
+        {
+          "role": "assistant",
+          "content": "Okay, I understand! Let me know when youre ready for the first message and we can get started together!"
+        },
+        {
+          "role": "user",
+          "content": "Welcome to Flirt 2 Win. Please start each message with [name] where [name] is one of our romance options. \n    Each of our romance options have distinct personalities and behavior they like and dislike. Be the first to discover the secret code of each AI compansion and claim their unique NFT airdrop! \n    Current romance options are: Sarah, Marcus, Elena, Jackson, Zoe, Ravi, Olivia, Nikolai, Maya, Leo. \n    Example: 'Sarah how are you?'\n    For more information, including clues on how to win and claiming prizes, go to https://dobby.chinesepowered.com/"
+        }
+      ]
+    }
+  ]
+}
